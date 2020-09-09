@@ -25,5 +25,14 @@ To turn this in, copy/paste the unrendered Markdown text (with the _ and * and s
 |**2311**|*DATA STRUCTURE*|HENDERSON|
 |**3302**|*PROBABILITY MATHEMATIC*|CESAR|
 
+**WILDCARDS**
+>HW1_lastname.txt -> HW*.txt
+
+_Shortcuts for working with file names,
+It use asterisk as a wildcard in a file name to get result with anything in that spot_
+
+
+
+
 
 
