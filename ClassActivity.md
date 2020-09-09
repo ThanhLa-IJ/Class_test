@@ -15,12 +15,12 @@ Note that in Github you can click "Preview changes" to see what the final result
      
 To turn this in, copy/paste the unrendered Markdown text (with the _ and * and such, from the edit file tab) into the assignment on blackboard.     
 
-< Hard work beats talent when talent does not work hard>
+>Hard work beats talent when talent does not work hard
 
-[TEAMUSA]<https://www.teamusa.org/USA-Field-Hockey/Features/2019/April/03/Hard-Work-Beats-Talent-When-Talent-Doesnt-Work-Hard>
+[TEAMUSA](https://www.teamusa.org/USA-Field-Hockey/Features/2019/April/03/Hard-Work-Beats-Talent-When-Talent-Doesnt-Work-Hard)
 
 |**COURESE NUMBER**|*COURESE NAME*|INSTRUCTURE|
-|---------------------------------------------|
+|------------------|--------------|-----------|
 |**2401**|*DATA SCIENCE*|SHOEMAKER|
 |**2311**|*DATA STRUCTURE*|HENDERSON|
 |**3302**|*PROBABILITY MATHEMATIC*|CESAR|
