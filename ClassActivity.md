@@ -14,3 +14,18 @@ Working with your classmates in your breakout rooms, and referencing my slides f
 Note that in Github you can click "Preview changes" to see what the final results are going to look like. 
      
 To turn this in, copy/paste the unrendered Markdown text (with the _ and * and such, from the edit file tab) into the assignment on blackboard.     
+
+<"Hard work beats talent when talent does not work hard">
+
+<https://www.teamusa.org/USA-Field-Hockey/Features/2019/April/03/Hard-Work-Beats-Talent-When-Talent-Doesnt-Work-Hard >
+
+|**COURSE NUMBER**|_NAME COURSE_|INSTRUCTURE|
+|-------------------------------------------|
+|**2401**|_DATA SCIENCE_|KATHERINE SHOEMAKER|
+|**2311**  |_DATA STRUCTURE_|JOHN HENDERSON|
+|**3302**  |_PROBANILITY MATHEMATIC_|CESAR GARZA|
+
+__
+
+
+
